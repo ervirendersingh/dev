@@ -1,5 +1,6 @@
 let mongoose = require('mongoose');
 
+//Addedd new comeent
 // Articles schema
 let Schema = mongoose.Schema;
 let articlesSchema = new Schema({
